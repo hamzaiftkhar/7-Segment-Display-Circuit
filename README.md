@@ -9,4 +9,4 @@ Components reuired are :
 5.. Bread board
 6.. Jumper wires
 
-here full detailed report is added here where you will get clreat circuit diagram and how our project is working.
+here full detailed report is added here where you will get clear circuit diagram and how our project is working.
