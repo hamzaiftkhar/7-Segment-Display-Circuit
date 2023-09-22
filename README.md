@@ -33,7 +33,7 @@ To build this project, you will need the following components:
 
 ## Detailed Report
 
-For a more in-depth explanation of the project, including step-by-step instructions, detailed circuit diagrams, and explanations of the 7447IC pin connections, please refer to the [Full Detailed Report](report/7_segment_display_report.pdf) provided in the project repository.
+For a more in-depth explanation of the project, including step-by-step instructions, detailed circuit diagrams, and explanations of the 7447IC pin connections, please refer to the [Full Detailed Report](https://github.com/hamzaiftkhar/7-Segment-Display-Circuit/blob/main/BCD%20to%207-Segment%20display.pdf) provided in the project repository.
 
 ## Contributing
 
